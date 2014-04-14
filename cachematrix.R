@@ -2,7 +2,7 @@
 ## and to solve the matrix after checking whether a cached inverse is available for use
 
 
-## Creates an object that can contain the matrix along with its cached inverse
+## Creates an object that can contains the matrix along with its cached inverse
 
 makeCacheMatrix <- function(x = matrix()) {
      inv <- NULL
