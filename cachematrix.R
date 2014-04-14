@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Allows to create a matrix object that caches its inverse
+## and to solve the matrix after checking whether a cached inverse is available for use
+
 
 ## Creates an object that can contain the matrix along with its cached inverse
 
